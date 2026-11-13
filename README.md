@@ -9,11 +9,12 @@
 | 文件 | 用途 |
 | --- | --- |
 | [SKILL.md](skills/research-workflow/SKILL.md) | AI 协作约定，包含论文复现与自主研究的工作流程 |
+| [机器人仿真与控制约定](skills/research-workflow/references/robotics-dynamics-control.md) | 机器人动力学仿真与控制的专项约定，按 `SKILL.md` 条件加载 |
 | [项目说明模板](skills/research-workflow/assets/project-readme.md) | 新建或补充项目说明时参考，按需选用相关内容 |
 
 ## 安装与使用
 
-将整个 `skills/research-workflow` 文件夹复制到用户目录下的 `.agents/skills/`，模板会一起带过去。Windows 对应路径通常是 `C:\Users\你的用户名\.agents\skills\`。
+将整个 `skills/research-workflow` 文件夹复制到用户目录下的 `.agents/skills/`，模板与参考文档会一起带过去。Windows 对应路径通常是 `C:\Users\你的用户名\.agents\skills\`。
 
 Linux/macOS 也可以在仓库根目录执行以下命令，通过链接使用仓库中的技能：
 
